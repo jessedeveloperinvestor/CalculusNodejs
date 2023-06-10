@@ -1,0 +1,18 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "math": "11.8.0",
+    "brainjs": "^0.7.4",
+    "express": "^4.18.2",
+    "fs": "*",
+    "json-server": "^0.17.1",
+    "limdu": "^0.9.4",
+    "path": "^0.12.7",
+    "pug": "^3.0.2"
+  }
+}

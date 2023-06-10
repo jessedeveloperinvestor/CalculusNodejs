@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Alexandre",
+    "contact": { "email": "abc@gmail.com" },
+    "senha": "ale123",
+    "tokenPag": 0
+  },
+  {
+    "name": "JESSE ALVES LEITE",
+    "contact": { "email": "jesseprofitableinvestor@gmail.com" },
+    "senha": "jesse123",
+    "tokenPag": 0
+  },
+  {
+    "contact": { "email": "jesse.alves06@protonmail.com" },
+    "senha": "jesse123",
+    "tokenPag": 751304
+  }
+]
