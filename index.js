@@ -7,20 +7,20 @@ const jsonServer = require('json-server');
 const app = express();
 
 
-const math = require('mathjs');
+// const math = require('mathjs');
 
-// Define the function
-const f = math.parse('x^2');
+// // Define the function
+// const f = math.parse('x^2');
 
-// Find the derivative
-const df = math.derivative(f, 'x');
+// // Find the derivative
+// const df = math.derivative(f, 'x');
 
-console.log(`The derivative of ${f} is ${df}.`);
+// console.log(`The derivative of ${f} is ${df}.`);
 
-// Find the integral
-const integral = math.integral(f, 'x');
+// // Find the integral
+// const integral = math.integral(f, 'x');
 
-console.log(`The integral of ${f} is ${integral}.`);
+// console.log(`The integral of ${f} is ${integral}.`);
 
 
 
