@@ -6,7 +6,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "math": "11.8.0",
+    "mathjs": "11.8.0",
     "brainjs": "^0.7.4",
     "express": "^4.18.2",
     "fs": "*",
